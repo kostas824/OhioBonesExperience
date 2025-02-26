@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gear Train with Fixed and Swaying Axes Mechanism
+* source:	https://sketchfab.com/3d-models/gear-train-with-fixed-and-swaying-axes-mechanism-f95fd071bdf44b819856b5cf1120627a
+* author:	trinityscsp (https://sketchfab.com/trinityscsp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gear Train with Fixed and Swaying Axes Mechanism" (https://sketchfab.com/3d-models/gear-train-with-fixed-and-swaying-axes-mechanism-f95fd071bdf44b819856b5cf1120627a) by trinityscsp (https://sketchfab.com/trinityscsp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

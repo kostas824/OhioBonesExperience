@@ -1,0 +1,11 @@
+Model Information:
+* title:	Battery and Mount
+* source:	https://sketchfab.com/3d-models/battery-and-mount-c91793e6b07e4ed58c9ce95cc2f4c8ad
+* author:	Cohan (https://sketchfab.com/Marghunk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Battery and Mount" (https://sketchfab.com/3d-models/battery-and-mount-c91793e6b07e4ed58c9ce95cc2f4c8ad) by Cohan (https://sketchfab.com/Marghunk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

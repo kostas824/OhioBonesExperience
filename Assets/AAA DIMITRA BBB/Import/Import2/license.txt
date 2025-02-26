@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Antic chest
+* source:	https://sketchfab.com/3d-models/old-antic-chest-e1c23c814af3477a85d26d8711733cc5
+* author:	Jerzy (https://sketchfab.com/jerzyy27)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Antic chest" (https://sketchfab.com/3d-models/old-antic-chest-e1c23c814af3477a85d26d8711733cc5) by Jerzy (https://sketchfab.com/jerzyy27) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

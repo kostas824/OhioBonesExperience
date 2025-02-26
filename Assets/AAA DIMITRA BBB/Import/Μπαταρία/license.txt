@@ -1,0 +1,11 @@
+Model Information:
+* title:	20417635-Battery
+* source:	https://sketchfab.com/3d-models/20417635-battery-57ccdd80d9d64b32b21f5238f97ba438
+* author:	gnicholson (https://sketchfab.com/gnicholson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "20417635-Battery" (https://sketchfab.com/3d-models/20417635-battery-57ccdd80d9d64b32b21f5238f97ba438) by gnicholson (https://sketchfab.com/gnicholson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	[BLOCKS] LuckyBlocks - 5 Colors!
+* source:	https://sketchfab.com/3d-models/blocks-luckyblocks-5-colors-9fbff5821c64480cad13dffdbd91ebef
+* author:	Thomas (ttodgers) (https://sketchfab.com/ttodgers)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[BLOCKS] LuckyBlocks - 5 Colors!" (https://sketchfab.com/3d-models/blocks-luckyblocks-5-colors-9fbff5821c64480cad13dffdbd91ebef) by Thomas (ttodgers) (https://sketchfab.com/ttodgers) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
